@@ -1,0 +1,1 @@
+desinstalar watchdog, urllib3, typing-extensions, tornado, toolz, toml, smmap, rpds-py, pygments, pyarrow, protobuf, mdurl, MarkupSafe, idna, colorama, charset-normalizer, certifi, cachetools, blinker, attrs, requests, referencing, markdown-it-py, jinja2, gitdb, click, rich, pydeck, jsonschema-specifications, gitpython, jsonschema, altair, streamlit
